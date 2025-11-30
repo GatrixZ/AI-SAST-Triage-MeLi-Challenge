@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.env
+.DS_Store
+*.pyc
+report.json
+report.html
+report_docker.json
+report_docker.html
+output/
+.pytest_cache/

@@ -1,0 +1,13 @@
+# Dependencias de IA / LLM
+google-genai
+
+# Herramientas de CLI y utilidades generales
+typer[all] 
+rich
+pydantic
+python-dotenv
+jinja2
+
+# Dependencias de desarrollo y testing
+pytest
+ruff
